@@ -6,6 +6,6 @@ Built upon an existing e-commerce application called Shop-Shop by implementing a
 offline capabilities with IndexedDB as well as the ability to handle secure online payments with a service called Stripe.
 
 ## Weblink
-
+https://frozen-shelf-43832.herokuapp.com/
 
 [![Screen-Shot-2021-06-27-at-12-35-26-PM.png](https://i.postimg.cc/WpDYzHtM/Screen-Shot-2021-06-27-at-12-35-26-PM.png)](https://postimg.cc/w3pQbFXv)
